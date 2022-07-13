@@ -17,7 +17,7 @@
 &nbsp;&nbsp;
 
 
-###🚀 Languages and Tools:
+### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
@@ -25,9 +25,17 @@
 
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
 
-[<img align="left" alt="Flutter" width="26px" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" style="padding-right:10px;" />][flutter]
+[<img align="left" alt="Flutter" width="26px" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" style="padding-right:10px;" />](https://flutter.dev/)
 
-[<img align="left" alt="Flutter" width="26px" src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4" style="padding-right:10px;" />][dart]
+[<img align="left" alt="Flutter" width="26px" src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4" style="padding-right:10px;" />](https://dart.dev/)
+
+
+[<img align="left" alt="C++" width="26px" src="https://w7.pngwing.com/pngs/579/803/png-transparent-the-c-programming-language-programmer-computer-programming-programming-blue-logo-computer-program-thumbnail.png" style="padding-right:10px;" />](https://cplusplus.com/doc/tutorial/)
+
+[<img align="left" alt="Java" width="26px" src="https://img1.pnghut.com/18/7/13/XK5WbMvwF8/programming-language-java-software-developer-text-virtual-machine.jpg" style="padding-right:10px;" />](https://www.java.com/en/)
+
+[<img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" style="padding-right:10px;" />](https://www.python.org/)
+
 
 <br />
 <br />
