@@ -30,9 +30,9 @@
 [<img align="left" alt="Flutter" width="26px" src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4" style="padding-right:10px;" />](https://dart.dev/)
 
 
-[<img align="left" alt="C++" width="26px" src="https://w7.pngwing.com/pngs/579/803/png-transparent-the-c-programming-language-programmer-computer-programming-programming-blue-logo-computer-program-thumbnail.png" style="padding-right:10px;" />](https://cplusplus.com/doc/tutorial/)
+[<img align="left" alt="C++" width="26px" src="https://img1.pnghut.com/t/2/20/14/NTkhi14jmA/template-computer-programming-software-source-code-developer.jpg" style="padding-right:10px;" />](https://cplusplus.com/doc/tutorial/)
 
-[<img align="left" alt="Java" width="26px" src="https://img1.pnghut.com/18/7/13/XK5WbMvwF8/programming-language-java-software-developer-text-virtual-machine.jpg" style="padding-right:10px;" />](https://www.java.com/en/)
+[<img align="left" alt="Java" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFynqQOTm0xYaiDQ4WsW2jN4L9evQuT-v3VRX9Ip4cQ_xejo0d3ItViQ2EUbIDtRkTAAY&usqp=CAU" style="padding-right:10px;" />](https://www.java.com/en/)
 
 [<img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" style="padding-right:10px;" />](https://www.python.org/)
 
