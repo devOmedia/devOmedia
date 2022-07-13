@@ -32,7 +32,7 @@
 
 [<img align="left" alt="C++" width="26px" src="https://img1.pnghut.com/t/2/20/14/NTkhi14jmA/template-computer-programming-software-source-code-developer.jpg" style="padding-right:10px;" />](https://cplusplus.com/doc/tutorial/)
 
-[<img align="left" alt="Java" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFynqQOTm0xYaiDQ4WsW2jN4L9evQuT-v3VRX9Ip4cQ_xejo0d3ItViQ2EUbIDtRkTAAY&usqp=CAU" style="padding-right:10px;" />](https://www.java.com/en/)
+[<img align="left" alt="Java" width="28px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFynqQOTm0xYaiDQ4WsW2jN4L9evQuT-v3VRX9Ip4cQ_xejo0d3ItViQ2EUbIDtRkTAAY&usqp=CAU" style="padding-right:10px;" />](https://www.java.com/en/)
 
 [<img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" style="padding-right:10px;" />](https://www.python.org/)
 
