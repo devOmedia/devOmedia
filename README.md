@@ -1,8 +1,8 @@
-# Hi there, I'm Syed Mahamudul Hasan 👋 
+# Hi there👋, I'm Syed Mahamudul Hasan  
 
 
 
-## I'm a A Self-Taught and Husband Developer 😜
+## I'm a A self-tought programmer and always curious on new tech. 😜
 
 - 🔭 I’m currently working with Flutter
 - 🌱 I'm currently learning Flutter, DSA and problem solving.
