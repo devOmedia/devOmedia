@@ -7,7 +7,7 @@
 - 🔭 I’m currently working with Flutter
 - 🌱 I'm currently learning Flutter, DSA and problem solving.
 - 👯 I’m want to contribute as Flutter Developer
-- 🥅 2022 Goals: Learn more about flutter and get a job opportunity from a reputeted company. 
+- 🥅 2022 Goals: Learn more about flutter and python.
 - ⚡ Fun fact: I drink lots of cup coffee or tea in a day
 
 ### Connect with me:
