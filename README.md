@@ -44,12 +44,10 @@
 <br />
 
  -->
- <h1 align="center">Hi 👋, I'm Syed Mahamudul Hasan</h1>
+<h1 align="center">Hi 👋, I'm Syed Mahamudul Hasan</h1>
 <h3 align="center">A passionate, dedicated Flutter developer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omedia23&label=Profile%20views&color=0e75b6&style=flat" alt="omedia23" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omedia23" alt="omedia23" /></a> </p>
 
 - 🔭 I’m currently working on **Flutter, Dart**
 
@@ -62,6 +60,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/syed-mahamudul-hasan-8a3196194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-mahamudul-hasan-8a3196194/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/omedia23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omedia23" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -70,5 +69,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omedia23&show_icons=true&locale=en&layout=compact" alt="omedia23" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omedia23&show_icons=true&locale=en" alt="omedia23" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omedia23&" alt="omedia23" /></p>
