@@ -49,8 +49,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omedia23&label=Profile%20views&color=0e75b6&style=flat" alt="omedia23" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omedia23" alt="omedia23" /></a> </p>
-
 - 🔭 I’m currently working on **Flutter, Dart**
 
 - 🌱 I’m currently learning **RxDart, GoLang, and DSA**
