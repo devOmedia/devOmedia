@@ -51,7 +51,7 @@
 
 - 🔭 I’m currently working on **Flutter, Dart**
 
-- 🌱 I’m currently learning **RxDart, GoLang, and DSA**
+- 🌱 I’m currently learning **RxDart, Bloc, and Design pattern**
 
 - 💬 Ask me about **Flutter, DSA and OOP**
 
