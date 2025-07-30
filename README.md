@@ -5,9 +5,9 @@
 ## I'm a self-tought programmer and always curious on new tech. 
 
 - 🔭 I’m currently working with Flutter
-- 🌱 I'm currently learning Flutter, TDD and Design Pattern.
+- 🌱 I'm currently learning Golang, TDD and Design Pattern.
 - 👯 I’m want to contribute as Flutter Developer
-- 🥅 2022 Goals: Learn more about flutter and python.
+- 🥅 2025 Goals: Learn more about Golang and Swift.
 - ⚡ Fun fact: I drink lots of cup coffee or tea in a day
 
 ### Connect with me:
